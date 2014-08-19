@@ -3,40 +3,40 @@ AngularJS-Learning
 
 A bunch of links to blog posts, articles, videos, etc for learning AngularJS. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
 
-NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. 
+NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 
 ### Table of Contents
-[Books](#books)  
-[Videos](#videos)  
-[Courses](#courses)  
-[Help](#help)  
-[General Topics](#general-topics)  
-[Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)  
-[Content Curation for 7 Days](#curation)  
-[Lessons Learned](#lessons-learned)  
-[Multipart Articles](#multipart-articles)  
-[Sample Apps](#sample-apps)  
-[Scopes & Compile](#scopes--compile)  
-[Dependency Injection](#dependency-injection)  
-[Directives](#directives)  
-[Services/Providers](#servicesproviders)  
-[Routing](#routing)  
-[Promises/Deferred](#promisesdeferred)  
-[Forms](#forms)  
-[Authentication](#authentication)  
-[Collections](#collections--ngrepeat-stuff)  
-[Code Organization](#code-organization)  
-[Testing](#testing)  
-[RESTful Stuff](#restful-stuff)  
-[Localization](#localization)  
-[UI Stuff](#ui-stuff)  
-[Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)  
-[Hosted Backends](#integration-with-other-languagesframeworks)  
-[Mobile](#mobile)  
-[Popular Third-Party Modules](#popular-third-party-modules)  
-[Test Editor Bundles](#text-editor-bundleside-stuff)  
-[Development Tools](#development-tools)  
-[Boilerplates](#boilerplates)  
+[Books](#books)
+[Videos](#videos)
+[Courses](#courses)
+[Help](#help)
+[General Topics](#general-topics)
+[Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)
+[Content Curation for 7 Days](#curation)
+[Lessons Learned](#lessons-learned)
+[Multipart Articles](#multipart-articles)
+[Sample Apps](#sample-apps)
+[Scopes & Compile](#scopes--compile)
+[Dependency Injection](#dependency-injection)
+[Directives](#directives)
+[Services/Providers](#servicesproviders)
+[Routing](#routing)
+[Promises/Deferred](#promisesdeferred)
+[Forms](#forms)
+[Authentication](#authentication)
+[Collections](#collections--ngrepeat-stuff)
+[Code Organization](#code-organization)
+[Testing](#testing)
+[RESTful Stuff](#restful-stuff)
+[Localization](#localization)
+[UI Stuff](#ui-stuff)
+[Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)
+[Hosted Backends](#integration-with-other-languagesframeworks)
+[Mobile](#mobile)
+[Popular Third-Party Modules](#popular-third-party-modules)
+[Test Editor Bundles](#text-editor-bundleside-stuff)
+[Development Tools](#development-tools)
+[Boilerplates](#boilerplates)
 
 ## Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
@@ -103,6 +103,13 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [reddit] (http://www.reddit.com/r/angularjs)
 
 ## General Topics
+* [Two Fucking Developers] (http://twofuckingdevelopers.com/)
+* [Yet Another Opinionated AngularJS Best Practices Guide](http://jmcunningham.net/2014/08/18/yet-another-opinionated-angularjs-best-practices-guide/)
+* [Uploading To S3 With AngularJS](http://www.cheynewallace.com/uploading-to-s3-with-angularjs/)
+* [Isolate Scopes Explained](http://www.codetunnel.io/isolate-scopes-explained/)
+* [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+* [Communicating Between Controllers In Angular](http://www.tysoncadenhead.com/blog/communicating-between-controllers-in-angular)
+* [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [What stumped me about AngularJS] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
 * [Lazy Loading In AngularJS] (http://ify.io/lazy-loading-in-angularjs/)
@@ -181,6 +188,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Picking Up Angular, build a twitter-like application](https://github.com/deontologician/pipr/blob/master/tut.org)
 * [Exception Handling in an AngularJS Web Application] (http://blog.loadimpact.com/2014/06/03/exception-handling-in-an-angularjs-web-application-tutorial/)
 * [AngularJS 101: From Zero to Angular in Seconds] (http://www.pubnub.com/blog/angularjs-101-from-zero-to-angular-in-seconds/)
+* [How to Learn AngularJS - Your AngularJS Sherpa](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
@@ -194,6 +202,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [5 AngularJS Antipatterns & Pitfalls] (http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/)
 * [Opinionated AngularJS styleguide for teams] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 * [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+* [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
@@ -332,7 +341,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Service / Factory Tutorial With Example] (http://viralpatel.net/blogs/angularjs-service-factory-tutorial/)
 * [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 * [Object-oriented AngularJS Services] (http://blog.revolunet.com/blog/2014/02/14/angularjs-services-inheritance/)
-* [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/) 
+* [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 * [AngularJS: Factory vs Service vs Provider] (http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 * [Building an AngularJS Modal Service](http://weblogs.asp.net/dwahlin/building-an-angularjs-modal-service)
 * [Keeping Angular “service” collection data in sync with controllers] (www.justinobney.com/keeping-angular-service-list-data-in-sync-among-multiple-controllers/)
@@ -409,6 +418,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * ["Add more element" form with Angular](http://blog.chorip.am/articles/add-more-form-style-the-nice-way-with-angularjs/)
 * [AngularJS Multi-Step Form Using UI Router](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
 * [Building Dynamic Angular Forms with ngRepeat and ngForm](http://scotch.io/tutorials/javascript/building-dynamic-angular-forms-with-ngrepeat-and-ngform)
+* [Angular Autocompleter: ngAtp](http://yiransheng.github.io/ngAtp/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -419,6 +429,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Cookies vs Tokens. Getting auth right with Angular.JS] (http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
 * [Techniques for authentication in AngularJS applications] (https://medium.com/opinionated-angularjs/7bbf0346acec)
 * [Implementing Authentication in Angular Applications](http://www.sitepoint.com/implementing-authentication-angular-applications)
+* [Token-based AngularJS Authentication](https://github.com/sahat/satellizer)
+* [Simple Authentication for Angular.js App](http://beletsky.net/2013/11/simple-authentication-in-angular-dot-js-app.html)
 
 
 ## Collections (& ngRepeat Stuff)
@@ -495,6 +507,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [INTERNATIONALIZATION WITH ANGULARJS](http://blog.trifork.com/2014/04/10/internationalization-with-angularjs/)
 
 ## UI Stuff
+* [ngReactGrid](https://github.com/josebalius/ngReactGrid)
+* [An easy to use grid repeating module with opening panel.](http://hacklone.github.io/ng-grid-panel/)
 * [Angular UI suite (including some subprojects)](http://angular-ui.github.io/)
 * [Animation in AngularJS] (http://www.yearofmoo.com/2013/04/animation-in-angularjs.html)
 * [Enhanced Animation in AngularJS] (http://www.yearofmoo.com/2013/05/enhanced-animations-in-angularjs.html)
@@ -557,8 +571,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Laravel 4 & AngularJS E2E secured SPA](http://blog.neoxia.com/laravel4-and-angularjs/)
 * [Tips for using AngularJS in ASP.Net MVC] (http://www.justinobney.com/tips-for-using-angularjs-in-asp-net-mvc/)
 * [Form validation with AngularJS and Rails](http://blog.cesarandreu.com/posts/form_validation_with_angularjs_and_rails)
+* [Extendible AngularJS two-way binding support for Polymer core and paper elements](https://github.com/GabiAxel/ng-polymer-elements)
 
- 
+
 ## Hosted Backends
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
 * [Realtime database for your Angular app with Firebase] (https://github.com/firebase/angularFire)
